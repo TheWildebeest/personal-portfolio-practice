@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="main.css">
+	<title>Silversite—professional</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+	<!-- Navigation -->
+
+	<!-- <nav>
+		<div class="home">
+			<p><a href="/home.html">HOME<br>⌂</a></p>
+		</div> -->
+
+	<!-- Header and background graphics -->
+
+	<header>
+		<img id="mask" src="https://lh3.googleusercontent.com/drCIB5XaBogt1hG4kePZMN_304w8XJe2TEB8NnSn8UQNjTeD4YQ8Y8CWwIIJnU-4ytzNfGw=w1280" alt="top banner">
+		<nav class="links">
+			<span class="leftlink"><a id="leftlink" href="/personal.html"><img src="https://lh6.googleusercontent.com/CAeoS_TIlV-jKo69cKAMgmzb2ZCU6C4n6v47w-y5czvyb1pLWjHf11d2N6tpco18G4F72ts_=w1280" alt="Personal"></a></span>
+			<span class="rightlink"> <a id="rightlink" href="/professional.html"><img src="https://lh4.googleusercontent.com/wsbAM6N6rnUvKSBMoCF6cY0G2sL6xLXp9yxd4-AXaWYbBBxd6NR7A-Z_lRTLN9QFs2bBmPM_=w1280" alt="Professional"></a></span>
+		</nav>
+	</header>
+
+	<div class="gradient">
+		<img id="scroll" src="https://lh6.googleusercontent.com/mQSl8quiJzCFC_b_0DutltUhVaJcSwaIgzk87DzSJ6dp9wokb4DUETPHWhXgZsSel_zeLX3cWjonBK5DKOWs-F9cTGbAlei9S4Moc-77nOsyAULk0Q=w1280" alt="">
+	</div>
+
+	<div class="background">
+		<img id="background" src="https://lh4.googleusercontent.com/AumRSNka3tmDpDSOLlKyRMpxtNUNSiiM084TbIYTF-fe0IxRti_GKFZ6pIXEkU34BlLslBUrw1XjnCWk2npHSV2bBw347pAVUdQ8YohcuxMcmIFFriU=w1280" alt="background">
+	</div>
+
+	
+	<!-- Main body -->
+
+
+	<div class="main">
+
+
+		<span class="home"></h1><h1 class="arrow"><a id="arrow" href="/home.html">click for home ⌂ scroll for more ☺️</a></h1></span>
+		
+		<span class="professional david"><h1><br>Professional</h1></span>
+
+		<h3 class="professional bio">I graduated from the University of Cambridge in<br>Chinese Studies. After graduating, I spent some<br>years selling advertising and events sponsorships<br>to law firms. I am now retraining as a full-stack<br> software developer. I am also available for freelance<br>translation and editing work. My areas of expertise<br>in this are classical and contemporary Chinese<br>philosophy, and legal and business translation. <br><br><a href="https://uk.linkedin.com/in/david-m-wildman">Find me on LinkedIn</a><br></h3>
+
+		<span class="professional wildman"><h1>Wildman</h1></span>
+		<span class="face"><img id="defaultface" src="https://lh3.googleusercontent.com/j-LT_Q_jJh3RRZyqtTEj9VN3zYWGbzxMIOtCeIUk5JKqBWrrtcRETN4Tr97S4zrRlPHIyduV_VuwI_LWU-9oQvG3-uOOZrFdoCGCuM30CGyyy9TbS5U=w1280" alt="david's profile picture"></span>
+	</div>
+	
+	<!-- <main>
+		<p id="1">
+			My first website!
+			Are you proud of me, mum?
+			If so, scroll down...
+		</p>
+		<p>
+			That was cool, right? Click on the links to learn more.
+			Alternatively, click here to contact me.
+		</p> -->
+
+
+
+	</main>
+
+
+</body>
+
+
+</html>
